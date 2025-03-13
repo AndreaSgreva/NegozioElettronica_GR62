@@ -5,4 +5,5 @@ Matricola Sgreva:[2113179]
 [Vai a schede_madri.md](componenti/schede_madri.md)
 ## Periferiche
 [Vai a tastiere.md](periferiche/tastiere.md)
+[Vai a mouse.md](periferiche/mouse.md)
 Elettronica Padovana
